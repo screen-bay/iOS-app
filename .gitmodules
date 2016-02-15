@@ -1,0 +1,3 @@
+[submodule "i-board/Classes/SwiftyJSON"]
+	path = i-board/Classes/SwiftyJSON
+	url = https://github.com/SwiftyJSON/SwiftyJSON.git

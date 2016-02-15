@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9072B942C3CD91075F3CEF99C10C86F87738B112",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3" : 0,
+    "9072B942C3CD91075F3CEF99C10C86F87738B112" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CCE845B8-BA48-49DA-A9FC-45458E57D3AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3" : "iOS\/i-board\/Classes\/SwiftyJSON\/",
+    "9072B942C3CD91075F3CEF99C10C86F87738B112" : "iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "i-board",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "i-board.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kenzan8000\/i-board-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9072B942C3CD91075F3CEF99C10C86F87738B112"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SwiftyJSON\/SwiftyJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3"
+    }
+  ]
+}

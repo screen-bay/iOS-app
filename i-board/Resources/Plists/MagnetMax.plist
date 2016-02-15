@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>BaseURL</key>
+<string>https://sandbox.magnet.com/mobile/api</string>
+<key>ClientID</key>
+<string>fc06dcc2-5349-4252-9be8-a251fa200d0e</string>
+<key>ClientSecret</key>
+<string>ZlAvje2x-RZl9CG9jFXReER8wjULSm_uvVujQ6yFx5w</string>
+</dict>
+</plist>
